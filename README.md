@@ -26,5 +26,3 @@ Note: Basically, we need to have as the output of the SOM colors similar to:
 http://www.cs.hmc.edu/~kpang/nn/som.html (under “Demonstration”).
 
 
-Reference use for this Question
-http://www.cs.hmc.edu/~kpang/nn/som.html
