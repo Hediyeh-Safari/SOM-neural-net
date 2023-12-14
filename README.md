@@ -17,6 +17,7 @@ topological neighbourhood 𝑵𝒊,𝒋(𝒌) of node (j) around the winning uni
 ![image](https://github.com/Hediyeh-Safari/SOM-neural-net/assets/82396645/c514c87e-6885-43ec-b048-aba1279754cf)
 
 Where
+
 ![image](https://github.com/Hediyeh-Safari/SOM-neural-net/assets/82396645/16e08bdf-5294-4b37-855c-cb305db0bd1b)
 
 And 𝑑!," is the distance between the winning node i and surrounding node j.
